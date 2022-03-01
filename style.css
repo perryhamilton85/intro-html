@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
-
+ <head>
+        <title>I am a title!</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
 body {
     background: #e9e9e9;
     background-image: url('background.jpg');
